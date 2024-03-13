@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>Vai ser uma imagem aqui</h1>
+        <img src="https://images.pexels.com/photos/20295105/pexels-photo-20295105/free-photo-of-amor-jardim-folha-presente.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="logo de flores">
         <ul>
             <li>Escola</li>
             <li>Estudante</li>
